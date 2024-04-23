@@ -1,3 +1,4 @@
+# CircleCI pipeline config file
 version: 2.1
 jobs:
   build:
